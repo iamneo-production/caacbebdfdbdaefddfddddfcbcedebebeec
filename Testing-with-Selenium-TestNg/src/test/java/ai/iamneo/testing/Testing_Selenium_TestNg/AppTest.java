@@ -64,7 +64,7 @@ public class AppTest {
         } catch (Exception e) {
             System.out.println("Login failed!");
         }
-    }
+	}
 
     @AfterTest
     public void afterTest() {
